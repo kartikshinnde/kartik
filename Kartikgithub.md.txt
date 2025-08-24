@@ -1,1 +1,1 @@
-This is my Git assignment work.
+Performed basic Git operations: init, add, commit
